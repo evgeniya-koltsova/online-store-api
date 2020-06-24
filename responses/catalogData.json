@@ -1,12 +1,32 @@
 [
-  {
-    "id_product": 123,
-    "product_name": "Ноутбук",
-    "price": 45600
-  },
-  {
-    "id_product": 456,
-    "product_name": "Мышка",
-    "price": 1000
-  }
-]
+    {
+      "id_product": 12,
+      "product_name": "Ноутбук",
+      "price": 45600
+    },
+    {
+      "id_product": 34,
+      "product_name": "Мышка",
+      "price": 1000
+    },
+    {
+        "id_product": 56,
+        "product_name": "Клавиатура",
+        "price": 2500
+      },
+      {
+        "id_product": 78,
+        "product_name": "Гарнитура",
+        "price": 3000
+      },
+      {
+        "id_product": 90,
+        "product_name": "Колонки",
+        "price": 4600
+      },
+      {
+        "id_product": 13,
+        "product_name": "Монитор",
+        "price": 10000
+      }
+  ]
