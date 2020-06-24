@@ -1,42 +1,42 @@
 {
   "amount": 66700, 
-  "countGoods": 0,
+  "countGoods": 6,
   "contents": [
     {
       "id_product": 12,
       "product_name": "Ноутбук",
       "price": 45600,
-      "quantity": 0
+      "quantity": 1
     },
     {
       "id_product": 34,
       "product_name": "Мышка",
       "price": 1000,
-      "quantity": 0
+      "quantity": 1
     },
     {
         "id_product": 56,
         "product_name": "Клавиатура",
         "price": 2500,
-        "quantity": 0
+        "quantity": 1
       },
       {
         "id_product": 78,
         "product_name": "Гарнитура",
         "price": 3000,
-        "quantity": 0
+        "quantity": 1
       },
       {
         "id_product": 90,
         "product_name": "Колонки",
         "price": 4600,
-        "quantity": 0
+        "quantity": 1
       },
       {
         "id_product": 13,
         "product_name": "Монитор",
         "price": 10000,
-        "quantity": 0
+        "quantity": 1
       }
   ]
 }
